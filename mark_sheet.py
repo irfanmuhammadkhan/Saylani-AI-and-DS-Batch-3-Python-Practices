@@ -32,7 +32,7 @@ elif percentage >= 40:
 else:
     grade = "Fail"
 
-saylani_id_card = f"""
+mark_sheet = f"""
 ***********************************************
 
                 Mark Sheet
@@ -56,4 +56,4 @@ Grade: {grade}
 
 ***********************************************
 """
-print(saylani_id_card)
+print(mark_sheet)
